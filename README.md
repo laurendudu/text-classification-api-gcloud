@@ -1,11 +1,11 @@
-# Lien de l'API #
+## Lien de l'API ##
 
 
-# Coûts de l'API #
+## Coûts de l'API ##
 cacules avec le site ...
 pour 10 000 invocations
 
-# Serverless vs. Iaas #
+## Serverless vs. Iaas ##
 * Serverless
 
 Ce type de développement permet de créer des applications ainsi que de les faire fonctionner sans à gérer de serveurs. Il est toujours nécessaire de les utilise mais ce n’est plus le problème de l’utilisateur : c’est au fournisseur de services cloud (AWS, Azure ou encore Google Cloud) de tout gérer de ce côté-ci. De plus, le serverless est facturé selon son activité. Le fournisseur se doit de faire fonctionner les applications via des conteneurs qui se mettent en route en fonction de l’utilisation qui est activé suivant une étape de déclenchement (requête de http par exemple). Le serverless est aussi appelé FaaS (Functions as a Service).  
