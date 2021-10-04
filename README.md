@@ -1,3 +1,7 @@
+## Notre projet ##
+Nous avons créé une API avec `Flask` qui utilise le modèle `distilbert-base-uncased-finetuned-sst-2-english` de [Hugging Face](https://huggingface.co/distilbert-base-uncased-finetuned-sst-2-english). Cette API a été déployée avec [Google Cloud](https://cloud.google.com/)
+
+
 ## Lien de l'API ##
 
 
