@@ -24,6 +24,6 @@ Il s’agit d’un service de cloud computing qui offre à son utilisateur le st
 
 Exemples : AWS, Microsoft Azure, Google Cloud  
 
-
-
+## Groupe ##
+Ce projet a été réalisé par [Sirine Haddouche](https://github.com/sirinehaddouche) et Lauren Durivault.
 
