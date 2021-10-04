@@ -3,11 +3,10 @@ Nous avons créé une API avec `Python 3.9.7` et `Flask` qui utilise le modèle 
 
 
 ## Lien de l'API ##
+Le [lien](https://tp-cloud-computing-2-7fy5c3etmq-ew.a.run.app/). Pour l'utiliser, spécifier à la fin du lien l'argument `?text=your_text` pour classifier le text voulu. La réponse sera un json. 
 
 
 ## Coûts de l'API ##
-cacules avec le site ...
-pour 10 000 invocations
 https://cloud.google.com/products/calculator/#id=dacd12ab-27b4-44d4-878c-8e3de366ce47
 
 ## Serverless vs. Iaas ##
