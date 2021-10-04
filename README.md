@@ -8,6 +8,7 @@ Nous avons créé une API avec `Python 3.9.7` et `Flask` qui utilise le modèle 
 ## Coûts de l'API ##
 cacules avec le site ...
 pour 10 000 invocations
+https://cloud.google.com/products/calculator/#id=dacd12ab-27b4-44d4-878c-8e3de366ce47
 
 ## Serverless vs. Iaas ##
 ### Serverless ###
