@@ -1,24 +1,22 @@
-# text-classification-api-gcloud
-
-
-Comparaison du système Serverless et de l’Iaas :  
-
- 
-
-Serverless:  
-
- 
-
+# Serverless vs. Iaas #
+* Serverless
 Ce type de développement permet de créer des applications ainsi que de les faire fonctionner sans à gérer de serveurs. Il est toujours nécessaire de les utilise mais ce n’est plus le problème de l’utilisateur : c’est au fournisseur de services cloud (AWS, Azure ou encore Google Cloud) de tout gérer de ce côté-ci. De plus, le serverless est facturé selon son activité. Le fournisseur se doit de faire fonctionner les applications via des conteneurs qui se mettent en route en fonction de l’utilisation qui est activé suivant une étape de déclenchement (requête de http par exemple). Le serverless est aussi appelé FaaS (Functions as a Service).  
 
- 
-
-Exemple : AWS Lambda, Azure Functions, Cloud Functions  
+Exemples : AWS Lambda, Azure Functions, Cloud Functions  
 
  
 
-IaaS (Infrastructure-as-a-Service):  
+* IaaS (Infrastructure-as-a-Service):  
 
 Il s’agit d’un service de cloud computing qui offre à son utilisateur le stockage et la virtualisation mais ces services sont facturés. De plus, l’utilisateur a à sa disposition des serveurs et n’a pas à gérer la maintenance ou encore les mises à jour. Via l’Iaas il est possible de développer facilement ses environnements et de les tester ou encore de les supprimer lorsque l’utilisateur n’en a plus besoin. En effet, l’utilisateur d’Iaas achète seulement ce qui l’intéresse dans les composantes proposées et il peut les faire évoluer. Néanmoins, l’utilisateur se doit de payer à l’avance les unités de capacité dont il aura besoin. Ainsi les serveurs sont actifs tout le temps pour le fonctionnement des applications de l’utilisateur, même lorsque l’application n’est pas lancée.  
 
-Exemple de IaaS : AWS, Microsoft Azure, Google Cloud  
+Exemples : AWS, Microsoft Azure, Google Cloud  
+
+# Déployer une API d'inférence d'un modèle de deep learning.
+
+
+# Vous n'utiliserez pas d'APIs externes et nous souhaitons au maximum limiter les coûts.
+
+# Vous devrez calculer précisément les coûts de votre API pour 10.000 invocations (hors free tier).
+
+
